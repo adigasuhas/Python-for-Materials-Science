@@ -1,4 +1,4 @@
-# Materials Science Python Tutorials
+# Python for Materials Science Tutorials
 
 This repository contains Jupyter notebooks and Python scripts tailored for applications in Materials Science. The tutorials are designed to guide you through the essential Python tools and libraries used in computational materials research.
 
