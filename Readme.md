@@ -54,9 +54,9 @@ I will be creating and updating notebooks for each topic weekly, documenting eve
 Feel free to explore the repository and use the provided tutorials as a guide to enhance your knowledge in computational materials science!
 
 ---
-## Contact Details:
+## Contact Details
 
---Suhas Adiga
---Theoretical Sciences Unit
---JNCASR, Bengaluru, India 
-_suhasadiga@jncasr.ac.in_
+**Suhas Adiga**  
+Theoretical Sciences Unit  
+JNCASR, Bengaluru, India  
+📧 [suhasadiga@jncasr.ac.in](mailto:suhasadiga@jncasr.ac.in)
