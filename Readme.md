@@ -56,7 +56,7 @@ Feel free to explore the repository and use the provided tutorials as a guide to
 ---
 ## Contact Details:
 
-Suhas Adiga
-Theoretical Sciences Unit
-JNCASR, Bengaluru, India 
+--Suhas Adiga
+--Theoretical Sciences Unit
+--JNCASR, Bengaluru, India 
 _suhasadiga@jncasr.ac.in_
