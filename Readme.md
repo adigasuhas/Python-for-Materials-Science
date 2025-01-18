@@ -1,4 +1,4 @@
-This repository contains notebooks related to the Pymatgen Tutorial. 
+This repository contains notebooks related to various python files that can be used for Materials Science applications . 
 
 ### Currently under development!! ###
 
