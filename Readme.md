@@ -30,22 +30,28 @@ The tutorial is divided into the following modules:
 6. **Matminer**
    - Feature engineering for machine learning in materials science
    - Accessing pre-built datasets
+     
+7. **Advanced Materials Science Libraries**
+    - Atom2Vec, Skipgram
+    - CrabNet, SMACT
 
-7. **Atomic Simulation Environment (ASE)**
+8. **Atomic Simulation Environment (ASE)**
    - Building and visualizing atomic models
    - Running simulations with various computational engines
 
-8. **FireWorks and Atomate**
+9. **FireWorks and Atomate**
    - Workflow creation and management
    - Automating computational tasks in materials science
 
-9. **Machine Learning with Scikit-Learn**
+10. **Machine Learning with Scikit-Learn**
    - Introduction to machine learning concepts
    - Building models and performing predictions
 
-10. **Deep Learning with PyTorch**
+11. **Deep Learning with PyTorch**
     - Neural network architectures for materials science applications
     - Training and evaluating deep learning models
+
+
 
 ---
 ## Note:
