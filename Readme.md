@@ -46,6 +46,7 @@ The tutorial is divided into the following modules:
 10. **Machine Learning with Scikit-Learn**
    - Introduction to machine learning concepts
    - Building models and performing predictions
+   - Analysing Machine Learning model output using SHAP
 
 11. **Deep Learning with PyTorch**
     - Neural network architectures for materials science applications
