@@ -37,7 +37,7 @@ The tutorial is divided into the following modules:
 
 ---
 ## Note:
-I will be creating and updating notebooks for each topic weekly, documenting everything I learnt as a beginner. This process will take time as I have to start making notebooks from scratch. I aim to complete all topics within 10 weeks. I expect to upload the first Notebook on 2nd of May 2025.
+I will be creating and updating notebooks for each topic weekly, documenting everything I learnt as a beginner. This process will take time as I have to start making notebooks from scratch. I aim to complete all topics within 10 weeks. I expect to upload the first Notebook on 2nd week of May 2025.
 
 Feel free to explore the repository and use the provided tutorials as a guide to enhance your knowledge in computational materials science!
 
