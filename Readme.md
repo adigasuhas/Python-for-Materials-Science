@@ -5,7 +5,7 @@ This repository contains Jupyter notebooks and Python scripts tailored for appli
 ## Syllabus
 The tutorial is divided into the following modules:
 
-1. **Basics of Python** (Week- 1)
+1. **Basics of Python** (Week- 1 and 2)
    - Setting up a virtual environment
    - Understanding variables and data types
    - Using loops and conditionals
