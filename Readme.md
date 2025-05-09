@@ -1,4 +1,11 @@
+<div align="center">
+    <img src="Python4_MS.png.png" width="250">
+</div>
+
+
 # Python for Materials Science Tutorials
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/release/python-310/)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)  
 
 This repository contains Jupyter notebooks and Python scripts tailored for applications in Materials Science. The tutorials are designed to guide you through the essential Python tools and libraries used in computational materials research.
 
