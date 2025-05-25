@@ -31,11 +31,11 @@ Module 4: **Pymatgen (Python Materials Genomics)** (Week-5 and 6)
    - Generating and analyzing material structures
 
 Module 5: **Advanced Materials Science Libraries** (Week-7 and 8)
-    - SMACT
-    - ElementEmbeddings
-    - CrystalLLM
-    - SkipAtom
-    - Chemeleon
+   - SMACT
+   - ElementEmbeddings
+   - CrystalLLM
+   - SkipAtom
+   - Chemeleon
 
 Module 6: **Accessing Materials Data** (Week-9)
    - Data retrieval using API (Materials Project and Optimade)
