@@ -49,7 +49,7 @@ Module 8: **Object Oriented Programming in Python** (Week-12)
 
 ---
 ## Note:
-I will be creating and updating notebooks for each topic weekly, documenting everything I learnt as a beginner. This process will take time as I have to start making notebooks from scratch. I aim to complete all topics within 12 weeks. I expect to upload the first Notebook on 2nd week of May 2025.
+I will be creating and updating notebooks for each topic, documenting everything I learnt as a beginner. This process will take time as I will be building the notebooks from scratch. I aim to complete all topics gradually whenever I find some free time.
 
 Feel free to explore the repository and use the provided tutorials as a guide to enhance your knowledge in computational materials science!
 
